@@ -3,17 +3,14 @@ max-width:1440px;
 width: 100%;
 margin: auto;
 background-position: center;
-border:#FA793C 10px solid;
 }
 /* header */
-/* @media (max-width:1440px){ */
 header{
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 6px 130px 0px;
-    background-color: antiquewhite;
     
 }
 .header_div{
